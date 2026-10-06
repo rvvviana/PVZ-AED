@@ -110,3 +110,4 @@ Zombie* Game::searchZombieByName(string name) {
     cout << "Zumbi " << name << " nao encontrado.\n";
     return nullptr;
 }
+//testa esse ai gui
